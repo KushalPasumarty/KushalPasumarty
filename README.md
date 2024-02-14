@@ -11,6 +11,12 @@ Document-oriented databases: These offer flexibility for intricate data structur
 Graph databases are perfect for social networks and fraud detection because they highlight the connections between data elements. Neo4j is a well-known illustration.
 Every NoSQL model has different benefits and trade-offs, so it's important to select the one that best suits your needs.
 
+
+
+![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/0cd6da8e-dbde-48f4-923c-7399d94e8c10)
+
+
+
 ## **Data Lakehouses: Unifying Data for Insights**
 A hybrid technique known as "data lakehouses" combines the administration and structure of data warehouses with the adaptability of data lakes. This makes it possible for businesses to store and process all of their data—structured and unstructured—on a single platform.
 
