@@ -33,4 +33,10 @@ The shortcomings of the two-tier design, where data is frequently duplicated bet
 NoSQL databases and data lakehouses are useful resources for managing the ever expanding data environment. It is essential to comprehend their distinct advantages and applications in order to choose the best strategy for your particular requirements. These technologies enable enterprises to fully utilize their data, whether they need a unified platform for thorough analysis or flexible storage for a variety of data types.
 
 
+## References 
+
+https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models
+https://www.databricks.com/glossary/data-lakehouse
+![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/19d1ed42-c700-4dc4-9db7-116ab361d358)
+
 
