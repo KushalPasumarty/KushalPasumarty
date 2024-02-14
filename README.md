@@ -3,7 +3,6 @@ Numerous technologies and procedures have been developed in response to the ever
 
 ### **NoSQL Databases: Flexibility for Diverse Data**
 
-
 ![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/0cd6da8e-dbde-48f4-923c-7399d94e8c10)
 
 NoSQL databases differ from conventional relational databases in that they provide more flexibility in terms of data management and structure. As opposed to relational databases' strict table-based structure, they support a wide range of data types, including unstructured and semi-structured data. Because of this, they are ideal for contemporary uses such as content management systems, social media platforms, and real-time analytics.
