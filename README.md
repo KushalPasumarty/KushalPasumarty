@@ -2,6 +2,9 @@
 Numerous technologies and procedures have been developed in response to the ever-increasing demand for data analysis and storage. Through an analysis of the two main strategies—NoSQL databases and data lakehouses—this summary draws conclusions from the listed publications.
 
 ## **NoSQL Databases: Flexibility for Diverse Data**
+
+
+![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/0cd6da8e-dbde-48f4-923c-7399d94e8c10)
 NoSQL databases differ from conventional relational databases in that they provide more flexibility in terms of data management and structure. As opposed to relational databases' strict table-based structure, they support a wide range of data types, including unstructured and semi-structured data. Because of this, they are ideal for contemporary uses such as content management systems, social media platforms, and real-time analytics.
 
 *The article "A Comparison of NoSQL Database Management Systems and Models" dives into different NoSQL models:*
@@ -13,11 +16,11 @@ Every NoSQL model has different benefits and trade-offs, so it's important to se
 
 
 
-![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/0cd6da8e-dbde-48f4-923c-7399d94e8c10)
-
-
 
 ## **Data Lakehouses: Unifying Data for Insights**
+
+![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/3b570d9f-4d04-4929-a48a-be9f62d82f32)
+
 A hybrid technique known as "data lakehouses" combines the administration and structure of data warehouses with the adaptability of data lakes. This makes it possible for businesses to store and process all of their data—structured and unstructured—on a single platform.
 
 *The article "What is a Data Lakehouse?" explains the key features:*
