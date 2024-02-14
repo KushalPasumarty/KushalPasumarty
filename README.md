@@ -1,10 +1,11 @@
-# **Navigating the Data Universe: NoSQL and Data Lakehouses**
+## **Navigating the Data Universe: NoSQL and Data Lakehouses**
 Numerous technologies and procedures have been developed in response to the ever-increasing demand for data analysis and storage. Through an analysis of the two main strategies—NoSQL databases and data lakehouses—this summary draws conclusions from the listed publications.
 
-## **NoSQL Databases: Flexibility for Diverse Data**
+### **NoSQL Databases: Flexibility for Diverse Data**
 
 
 ![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/0cd6da8e-dbde-48f4-923c-7399d94e8c10)
+
 NoSQL databases differ from conventional relational databases in that they provide more flexibility in terms of data management and structure. As opposed to relational databases' strict table-based structure, they support a wide range of data types, including unstructured and semi-structured data. Because of this, they are ideal for contemporary uses such as content management systems, social media platforms, and real-time analytics.
 
 *The article "A Comparison of NoSQL Database Management Systems and Models" dives into different NoSQL models:*
@@ -17,7 +18,7 @@ Every NoSQL model has different benefits and trade-offs, so it's important to se
 
 
 
-## **Data Lakehouses: Unifying Data for Insights**
+### **Data Lakehouses: Unifying Data for Insights**
 
 ![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/3b570d9f-4d04-4929-a48a-be9f62d82f32)
 
@@ -29,13 +30,14 @@ High-performance SQL execution: The lakehouse's optimized query engines make it 
 Open data formats: Data science tools like pandas and TensorFlow can easily access data saved in formats like Parquet.
 The shortcomings of the two-tier design, where data is frequently duplicated between data lakes and data warehouses, are addressed with data lakehouses. They enable data teams to obtain better insights across a variety of data kinds by integrating data and providing strong management tools.
 
-## **Conclusion**
+### **Conclusion**
 NoSQL databases and data lakehouses are useful resources for managing the ever expanding data environment. It is essential to comprehend their distinct advantages and applications in order to choose the best strategy for your particular requirements. These technologies enable enterprises to fully utilize their data, whether they need a unified platform for thorough analysis or flexible storage for a variety of data types.
 
 
-## References 
+### **References** 
 
 [https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models](url)
+
 [https://www.databricks.com/glossary/data-lakehouse](url)
 
 
