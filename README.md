@@ -35,8 +35,8 @@ NoSQL databases and data lakehouses are useful resources for managing the ever e
 
 ## References 
 
-https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models
-https://www.databricks.com/glossary/data-lakehouse
-![image](https://github.com/KushalPasumarty/KushalPasumarty/assets/147682479/19d1ed42-c700-4dc4-9db7-116ab361d358)
+> https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models
+> https://www.databricks.com/glossary/data-lakehouse
+
 
 
